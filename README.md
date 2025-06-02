@@ -3,7 +3,7 @@
 <table width=80%>
   <tr><td><b>프로젝트 기간</b></td><td><b>프로젝트원</b></td><td><b>수행 역할</b></td>
   </tr>
-  <tr><td>2025.06</td><td>박상우</td><td>Global Path Planning, Mission/Mode Control, Optimal Trajectory Planning</td>
+  <tr><td>2025.06</td><td>박상우</td><td>Team Leader, Trajectory Planning, SW architecture</td>
   </tr>
 </table>
 <br/>
