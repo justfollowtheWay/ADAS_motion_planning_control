@@ -3,7 +3,7 @@
 <table width=80%>
   <tr><td><b>프로젝트 기간</b></td><td><b>프로젝트원</b></td><td><b>수행 역할</b></td>
   </tr>
-  <tr><td>2024.10.15 - 2024.10.30</td><td>김도훈, 김성진, 김진우, 전민홍, 전지환, 조섭근, 조영욱</td><td>Global Path Planning, Mission/Mode Control, Optimal Trajectory Planning</td>
+  <tr><td>2025.06</td><td>박상우</td><td>Global Path Planning, Mission/Mode Control, Optimal Trajectory Planning</td>
   </tr>
 </table>
 <br/>
